@@ -76,3 +76,5 @@ PASSWORD-GENERATOR/
 ## 📸 Скриншоты приложения
 
 ![alt text](image.png)
+
+[text](https://github.com/grigorykkk/password-generator)
